@@ -9,4 +9,4 @@ if [ ! -d "$DEST" ]; then
   mkdir "$DEST"
 fi
 mv -f ~/Desktop/* $DEST
-echo "All your mess have been moved to" ${DEST}.
+echo "All your mess has been moved to" ${DEST}.
